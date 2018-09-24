@@ -8,3 +8,5 @@ java -jar [drag SERVER jar file here]
 java -jar [drag CLIENT jar file here]
 ```
 ###### *you can open up as many clients as you'd like
+###### This is what the program looks like while running!
+![](Capture.PNG)
